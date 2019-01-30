@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main (void){
-	printf("Hello, my name is Gehan Yang\n");
+	printf("Goodbye, I finished my CS 2560 HW1\n");
 	return 0;
 }
